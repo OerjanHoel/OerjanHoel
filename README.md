@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OerjanHoel
-- 👀 I’m interested in web-development
+- 👀 I’m interested in web-development and network support
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me ...

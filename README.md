@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OerjanHoel
 - 👀 I’m interested in web-development and network support
-- 🌱 I’m currently learning Python, but do some HTML and CSS on the side
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Python, but also do some HTML and CSS
 - 📫 How to reach me orjan.hoel@gmail.com
 
 <!---

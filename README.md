@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.oerjanhoel.com](https://www.oerjanhoel.com)
 
-- 📫 How to reach me **orjan.hoel.com**
+- 📫 How to reach me **orjan.hoel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
